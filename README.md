@@ -9,7 +9,7 @@
 [![Linkedin: Adarsh](https://img.shields.io/badge/adarsh-pandey?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adarsh-pandey-2019//)](https://www.linkedin.com/in/adarsh-pandey-2019/)
 ![GitHub followers](https://img.shields.io/github/followers/AdarshPandey-dev?label=Follow&style=social)
 
-<script src="https://tryhackme.com/badge/406108"></script>
+TryHackMe: https://tryhackme.com/badge/406108
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
