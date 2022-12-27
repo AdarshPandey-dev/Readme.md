@@ -9,19 +9,26 @@
 [![Linkedin: Adarsh](https://img.shields.io/badge/adarsh-pandey?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/adarsh-pandey-2019//)](https://www.linkedin.com/in/adarsh-pandey-2019/)
 ![GitHub followers](https://img.shields.io/github/followers/AdarshPandey-dev?label=Follow&style=social)
 
-
 <img src="https://tryhackme-badges.s3.amazonaws.com/pandey24.png" alt="TryHackMe">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```
-KQL:
-AdarshPandey
-| where Profession == "CyberSecurity Engineer"
-| where Code in (Python, Powershell, Bash, KQL)
-| where Technologies in (Azure, SIEM, SecOps, VAPT)
-| Where SourceCountry == "India"
-| Project Name, Profession, Code, Technologies, TwitterAccount, SourceCountry
+const adarsh = {
+    pronouns: "He" | "Him",
+    code: ["PowerShell", "Python", "KQL", "bash"],
+    askMeAbout: ["Sec Ops", "threat hunting", "app sec", "photography"],
+    technologies: {
+        Azure: {
+            security: ["Defender", "Sentinel", "Cloud Sec"],
+        },
+        SIEM: {
+            native: ["Sentinel", "splunk"]
+        },
+        databases: ["MySql"],
+        misc: ["KQL", "penetration test", "Automation"]
+    },
+};
 ```
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdarshPandey-dev&show_icons=true&theme=radical)
